@@ -20,6 +20,14 @@
     "category": "Base"
   },
   {
+    "name": "Kill Mohg, Lord of Blood",
+    "category": "Base"
+  },
+  {
+    "name": "Kill Margit with +0 weapon",
+    "category": "Base"
+  },
+  {
     "name": "Kill Leonine Misbegotten",
     "category": "Base"
   },
@@ -124,10 +132,36 @@
     "category": "Base"
   },
   {
+    "name": "Kill %numofbosses% Cemetery Shades",
+    "numofbosses": [
+      "2",
+      "3"
+    ],
+    "category": "Base"
+  },
+  {
+    "name": "Kill %numofbosses% Watchdogs",
+    "numofbosses": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "category": "Base"
+  },
+  {
     "name": "Kill %numofbosses%",
     "numofbosses": [
       "1 Duelist boss",
       "2 Duelist bosses"
+    ],
+    "category": "Base"
+  },
+  {
+    "name": "Kill %numofbosses% Black Knife Assassins",
+    "numofbosses": [
+      "2",
+      "3"
     ],
     "category": "Base"
   },
@@ -223,7 +257,11 @@
     "category": "Base"
   },
   {
-    "name": "Kill a Remembrance boss sorcery/incantations/bow/remembrance weapon only",
+    "name": "Kill a Remembrance boss sorcery, incantations, bow weapon only",
+    "category": "Base"
+  },
+  {
+    "name": "Kill a Remembrance boss w/ remembrance weapon only",
     "category": "Base"
   },
   {
@@ -290,6 +328,22 @@
     "category": "Base"
   },
   {
+    "name": "Acquire Somberstone Bell Bearing [1] and [2]",
+    "category": "Base"
+  },
+  {
+    "name": "Acquire Smithing-stone Bell Bearing [1] and [2]",
+    "category": "Base"
+  },
+  {
+    "name": "Acquire Glovewort Bell Bearing [1] and [2]",
+    "category": "Base"
+  },
+  {
+    "name": "Acquire Ghost-Glovewort Bell Bearing [1] and [2]",
+    "category": "Base"
+  },
+  {
     "name": "Acquire Margit's and Mohg's Shackles",
     "category": "Base"
   },
@@ -343,6 +397,16 @@
     "category": "Base"
   },
   {
+    "name": "Acquire %num% different Talismans (only 1 Sacrifial Twig)",
+    "num": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "category": "Base"
+  },
+  {
     "name": "Acquire both Scarseal talismans",
     "category": "Base"
   },
@@ -367,13 +431,12 @@
     "category": "Base"
   },
   {
-    "name": "Memory of Grace with 50k+ Runes",
+    "name": "Memory of Grace with 65k+ Runes",
     "category": "Base"
   },
   {
     "name": "Kill %num% NPC invaders",
     "num": [
-      "2",
       "3",
       "4"
     ],
@@ -404,8 +467,36 @@
     "category": "Base"
   },
   {
-    "name": "%square%",
-    "square": ["Rune Level 60", "25 Faith or Intelligence or Arcane (no rebirth or buffs)"],
+    "name": "Rune Level %num%",
+    "num": [
+      "55",
+      "60",
+      "65"
+    ],
+    "category": "Base"
+  },
+  {
+    "name": "%num% Faith (no rebirth or buffs)",
+    "num": [
+      "25",
+      "30"
+    ],
+    "category": "Base"
+  },
+  {
+    "name": "%num% Arcane (no rebirth or buffs)",
+    "num": [
+      "25",
+      "30"
+    ],
+    "category": "Base"
+  },
+  {
+    "name": "%num% Int (no rebirth or buffs)",
+    "num": [
+      "25",
+      "30"
+    ],
     "category": "Base"
   },
   {
@@ -419,9 +510,7 @@
   {
     "name": "Kill %num% Tree spirits",
     "num": [
-      "2",
-      "3",
-      "4"
+      "3"
     ],
     "category": "Base"
   },
@@ -434,7 +523,23 @@
     "category": "Base"
   },
   {
+    "name": "Collect the full Haligtree Medallion",
+    "category": "Base"
+  },
+  {
+    "name": "Kill Borealis",
+    "category": "Base"
+  },
+  {
     "name": "Kill Astel and Astel, Stars of Darkness",
+    "category": "Base"
+  },
+  {
+    "name": "Kill %num% NPC Bosses",
+    "num": [
+      "3",
+      "4"
+    ],
     "category": "Base"
   },
   {
@@ -443,6 +548,10 @@
   },
   {
     "name": "Acquire Moon of Nokstella",
+    "category": "Base"
+  },
+  {
+    "name": "Kill Roundtable Knight Vyke",
     "category": "Base"
   },
   {
